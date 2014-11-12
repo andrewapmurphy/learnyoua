@@ -1,4 +1,4 @@
-package main.java.learn.you.a.data.structure.list.array;
+package learn.you.a.data.structure.list.array;
 
 import learn.you.a.data.structure.Iterator;
 import learn.you.a.data.structure.list.array.ArrayList;

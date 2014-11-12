@@ -4,8 +4,9 @@ import static org.junit.Assert.*;
 
 import java.util.Random;
 
-import learn.you.a.data.structure.list.array.ReferenceArrayList;
+import learn.you.a.data.structure.Iterator;
 import learn.you.a.data.structure.list.array.ArrayList;
+import learn.you.a.data.structure.list.array.ReferenceArrayList;
 
 import org.junit.Test;
 
